@@ -15,8 +15,8 @@ You'll need Python 3.8 or newer. If you don't have it, grab it from [python.org]
 Clone the repo (or just download the files) and install the two dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/HeavyFromTF2/Youtube_Downloader_MP4-MP3.git
+cd Youtube_Downloader_MP4-MP3
 pip install yt-dlp imageio-ffmpeg
 ```
 
