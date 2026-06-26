@@ -1,6 +1,6 @@
 # YouTube Downloader
 
-A small desktop app for downloading YouTube videos as **mp4** or **mp3**. Built with Python, kept as lightweight as possible.
+A small desktop app for downloading YouTube videos as **mp4** or **mp3**. Built with Python, kept as lightweight as possible, so you can guess that it download the file pretty damn fast. The MP4 files won't be on super high quality, but also will not be below 480p.
 
 ## What it does
 
