@@ -4,7 +4,7 @@ A small desktop app for downloading YouTube videos as **mp4** or **mp3**. Built 
 
 ## What it does
 
-Paste a link, pick video or audio, hit download. That's pretty much it. There's a progress bar so you know it's actually doing something, and you get to choose where the file lands on your computer.
+Paste a link, pick video or audio, hit download. That's pretty much it. There's a progress bar so you know it's actually doing something, and you get to choose where the file lands on your computer. “I only did this because of all those stupid malware video downloaders \,,/(^_^)\,,/”
 
 ## Before you start
 
